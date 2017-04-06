@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
+<concept id="sample_concept" xml:lang="en-US">
+  <author>Cathie Ryan</author>
+  <title>Chapter 9: Emphasizing Important Information</title>
+  <shortdesc>Summary from <i>Technical Communication</i> by Mike Markel.</shortdesc>
+  <conbody>
+    <p>This chapter taught us about how to write so that important information is easily accessible
+      and understood. Here are some important points:</p>
+    <ul id="ul_k5r_lmc_mz">
+      <li>Make sure that the titles and headings are informative. The titles and headings should
+        describe the section, and be indented id a way to highlight relative importance of the
+        information.</li>
+      <li>Separate out the important information into a list. The list can have the important phases
+        bolded and can have explanatory sentences following the bolded phrases.</li>
+      <li>Structure paragraphs so that the important information comes first. Then, any supporting
+        sentences can follow.</li>
+      <li>Divide paragraphs into manageable chunks. Find logical places to break paragraphs into
+        fewer sentences so that there is not so much information for the reader to understand or
+        remember.</li>
+      <li>Use transitional word and phases to convey meaning. Transitional words show relationships
+        and include words like also, likewise, although, above, and finally among many other words
+        listed on page 209.</li>
+    </ul>
+  </conbody>
+</concept>

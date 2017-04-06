@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="changeoil" xml:lang="en-us">
+  <title>Writing Process</title>
+  <shortdesc>From <i>Technical Communication</i> by Mike Markel.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Typical steps when writing technical documentation. </p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Planning</cmd>
+      </step>
+      <step>
+        <cmd>Drafting.</cmd>
+      </step>
+      <step>
+        <cmd>Revising.</cmd>
+      </step>
+      <step>
+        <cmd>Editing.</cmd>
+      </step>
+      <step>
+        <cmd>Proofreading.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

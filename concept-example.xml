@@ -9,11 +9,14 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <author>Your name</author>
-  <title>My Abstract</title>
-  <shortdesc>My Abstract</shortdesc>
+  <author>Cathie Ryan</author>
+  <title>JavaScript</title>
+  <shortdesc>Programming language that turns your webpages into a program. test</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
+    <p>JavaScript is a programming language that you use with your webpages to turn webpages into a
+      program. It allows the developer to gather input and manipulate the webpage after the webpage
+      has been loaded.  </p>
+    <p>Javascript is deeply embedded with the browser.  It uses an event driven model which means
+      that the event is not run until the event is triggered.</p>
   </conbody>
 </concept>
