@@ -7,7 +7,7 @@
 
 <reference id="troubleshooting" xml:lang="en-US">
   <title>JavaScript Events</title>
-  <shortdesc>Triggers the execution of the event that affect the webpage.</shortdesc>
+  <shortdesc>Triggers the execution of the event that affect the webpage. test</shortdesc>
   <refbody>
     <section id="out-of-memory-error">
       <title>Out of Memory error</title>
