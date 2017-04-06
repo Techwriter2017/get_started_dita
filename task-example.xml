@@ -9,7 +9,7 @@
  *-->
 <task id="changeoil" xml:lang="en-us">
   <title>JavaScript and Chrome Development Tools</title>
-  <shortdesc>Viewing the Chrone Development console.</shortdesc>
+  <shortdesc>Viewing the Chrone Development console. test</shortdesc>
   <taskbody>
     <context>
       <p>Use the Chrome Development console to debug errors that can occur when JavaScript is run. </p>
