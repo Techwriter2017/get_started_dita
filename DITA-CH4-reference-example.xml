@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC 
+'-//OASIS//DTD DITA Reference//EN' 
+  'dtd1.2/technicalContent/dtd/reference.dtd'>
+
+<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+
+<reference id="troubleshooting" xml:lang="en-US">
+  <title>Glossary of Terms</title>
+  <shortdesc>From <i>Technical Communication</i> by Mike Markel.</shortdesc>
+  <refbody>
+    <section id="out-of-memory-error">
+      <title>Audience Profile Sheet</title>
+      <p>A document that records characteristics of the audience.  For example, the audience profile
+        sheet could include education level, job responsibilites, type of work environment, cultural
+        characteristics and many more.</p>
+    </section>
+  </refbody>
+</reference>

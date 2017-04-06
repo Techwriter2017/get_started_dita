@@ -8,33 +8,33 @@
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
 <task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+  <title>JavaScript and Chrome Development Tools</title>
+  <shortdesc>Viewing the Chrone Development console.</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly 
-will help keep the engine in good condition. </p>
+      <p>Use the Chrome Development console to debug errors that can occur when JavaScript is run. </p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>To view the console:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Open the Developer Tools and click the Console Tab.</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>At the > prompt, enter the JavaScript code to be evaluated.</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>If the JavaScript code evaluates correctly, you can enter this code into your
+          script.</cmd>
       </step>
       <step>
-        <cmd>Add new oil to the engine.</cmd>
+        <cmd>If the JavaScript code does not evaluate correctly, determine what is causing the
+          error.   The error could be caused by a typo or misuse of a command.</cmd>
       </step>
       <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
+        <cmd>Once you have determined the cause of the error, return to step 2.</cmd>
       </step>
       <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Continue to debug all errors until there are not any left to debug.</cmd>
       </step>
     </steps>
   </taskbody>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
+<concept id="sample_concept" xml:lang="en-US">
+  <author>Cathie Ryan</author>
+  <title>Chapter 4: Writing Collaboratively</title>
+  <shortdesc>Summary of Chapter 4 contents about writing collaboratively.</shortdesc>
+  <conbody>
+    <p>Technical writers are often employed by corporations and assigned to work on team to produce
+      documentation. </p>
+    <p>In these corporations, it is necessary for the writer to know how to collaborate with the
+      team. </p>
+    <p>When collaboration is done correctly, the documentation is better.</p>
+    <p>Our text book lists several advantages and disadvantages to collaboration. With
+      collaboration, </p>
+    <p>the writer can draw upon a wider knowledge and skills base. The documentation also benefits
+      by having </p>
+    <p>another person review it to make sure that it is accurate, clear, and targeted to the
+      intended audience. </p>
+    <p>Also, collaboration improves communication in the team, acclimates new writers, and improves
+      moral. </p>
+    <p>Collaboration does have disadvantages in time, interpersonal conflict, and other areas.
+      However, if </p>
+    <p>the writer conducts themselves in a professional manner, the disadvantages of collaboration
+      are manageable.</p>
+    <p>Documentation projects benefit from being planned and monitored through the process. Before
+      writing </p>
+    <p>begins, it is advisable to create a documentation plan that lists what will be written, by
+      whom, and </p>
+    <p>contain a detailed schedule with milestones such as the date when the document will be
+      drafted, reviewed, </p>
+    <p>published, and so on. Some documentation plans may include a list of risks or dependencies
+      that detail </p>
+    <p>the circumstances that impact successful completion of any and all milestones. Also, if the
+      documentation </p>
+    <p>is being written by many writers, it is best to define individual tasks for each writer and
+      establish a style </p>
+    <p>sheet, a glossary as well as the work schedules and procedures to coordinate the team’s
+      efforts.</p>
+    <p>In the career of technical writing, writers will have to attend many meetings. To be
+      successful, </p>
+    <p>the writer should be prepared for the meeting with appropriate questions, listen effectively,
+      and give </p>
+    <p>feedback. It is important to be professional and diplomatic when giving feedback.</p>
+    <p>Lastly, technical writers need to understand the various social media services available. </p>
+    <p>For example:</p>
+    <ul id="ul_hqw_kkc_mz">
+      <li>Videoconferencing as a way to meet and share information.</li>
+      <li>Online information sources such as tweets, wikis, websites, Facebook, YouTube, and
+        more.</li>
+      <li>Different types of writing (aka authoring) software and online review.</li>
+    </ul>
+  </conbody>
+</concept>
